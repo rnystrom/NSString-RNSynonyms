@@ -46,6 +46,16 @@ NSString *sentence = @"The important thing to remember about WWDC is that it is 
 }];
 ```
 
+## Reading
+
+This small project makes use of [<code>NSLinguisticsTagger</code>](http://developer.apple.com/library/ios/#documentation/cocoa/reference/NSLinguisticTagger_Class/Reference/Reference.html). Check out the docs and for more reading, [NSHipster](http://nshipster.com/nslinguistictagger/).
+
+## Contact
+
+* [@nystrorm](https://twitter.com/_ryannystrom) on Twitter
+* [@rnystrom](https://github.com/rnystrom) on Github
+* <a href="mailTo:rnystrom@whoisryannystrom.com">rnystrom [at] whoisryannystrom [dot] com</a>
+
 ## License
 
-Licensed under MIT, see LICENSE.
+Licensed under MIT, see [LICENSE](https://github.com/rnystrom/NSString-RNSynonyms/blob/master/LICENSE).
