@@ -39,7 +39,7 @@ NSString *word = @"phone";
 To find all possible synonyms for a word.
 
 ```objc
-NSString *word = @"objective";
+NSString *word = @"important";
 NSString *sentence = @"The important thing to remember about WWDC is that it is a developer conference.";
 [word findSynonymsInContextSentence:sentence completion:^(NSArray *words, NSError *error) {
     // "of import","significant","crucial","authoritative"
